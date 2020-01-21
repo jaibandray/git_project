@@ -1,5 +1,12 @@
 Change request 
+<<<<<<< HEAD
 ye sab nai chalega
 change the file to check push to remote server
 Something ----- which is pushed by my teammate
 adding - to identify change
+=======
+ye sab nai chalega aaj se
+change the file to check push to remote server okkk
+Something which is pushed by my teammate who is stupid
+Change at local master
+>>>>>>> File 2 updated for conflict
